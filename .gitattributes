@@ -1,1 +1,4 @@
-
+*.pdf binary
+*.awr binary
+docs/* linguist-documentation
+report/* linguist-documentation
