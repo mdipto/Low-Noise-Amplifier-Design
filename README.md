@@ -63,20 +63,5 @@ Gain stages:
 
 ---
 
-## 🖼 Figures
-
-- **Matching Network (Smith Chart)**  
-  ![Matching Network](images/smith_chart_reflection_coeff.png)
-- **Microstrip Layout**  
-  ![Layout](images/microstrip_layout.png)
-- **Simulation Response**  
-  ![Gain Plot](images/simulation_gain_plot.png)
-- **Fabricated PCB**  
-  ![PCB Photo](images/lab_pcb_photo.png)
-- **Measured Results**  
-  ![Lab Results](images/lab_test_results.png)
-
----
-
 ## 🧩 Folder Structure
 
