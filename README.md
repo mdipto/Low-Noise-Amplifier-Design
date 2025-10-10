@@ -82,7 +82,6 @@ Gain stages:
 
 ### Stability and Noise Analysis
 | Stability Check |
-|-----------------|---------------|
 | ![Smith Chart](images/stability_check_smith_chart.png)
 
 ### Fabrication and Measurement
