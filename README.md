@@ -84,7 +84,7 @@ Gain stages:
 | Stability Check | Noise Figure |
 |-----------------|---------------|
 | ![Smith Chart](images/stability_check_smith_chart.png) 
-| ![Noise Figure](report/noise_figure.pdf) |
+| ![Noise Figure](images/noise_figure.pdf) |
 
 ### Fabrication and Measurement
 | Fabricated PCB | Lab Measurement Setup |
