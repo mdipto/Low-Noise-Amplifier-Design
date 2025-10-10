@@ -1,3 +1,8 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![AWR](https://img.shields.io/badge/Tool-NI%20AWR-blue)
+![GHz](https://img.shields.io/badge/Frequency-4.5%20GHz-orange)
+
+
 # Low Noise Amplifier (LNA) Design — 4.5 GHz | AWR Microwave Office
 
 This repository presents my **M.Sc. Microwave Circuits and Systems** project,  
