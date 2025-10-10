@@ -81,7 +81,7 @@ Gain stages:
 | ![All Response](images/microstrip_all_response.png) | ![Tuning](images/microstrip_tuning_response.png) | ![T Junction](images/microstrip_tjunction_response.png) |
 
 ### Stability and Noise Analysis
-| Stability Check | Noise Figure |
+| Stability Check |
 |-----------------|---------------|
 | ![Smith Chart](images/stability_check_smith_chart.png)
 
