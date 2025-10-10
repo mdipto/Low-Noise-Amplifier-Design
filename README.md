@@ -63,5 +63,28 @@ Gain stages:
 
 ---
 
+## 🖼 Gallery
+
+### Simulation and Layout
+| AWR Schematic | Microstrip Layout |
+|----------------|------------------|
+| ![Schematic](images/schematic_full_circuit.png) | ![Layout](images/microstrip_layout.png) |
+
+### Simulation Responses
+| Response (Initial) | Response (After Tuning) | T-Junction Response |
+|--------------------|--------------------------|---------------------|
+| ![All Response](images/microstrip_all_response.png) | ![Tuning](images/microstrip_tuning_response.png) | ![T Junction](images/microstrip_tjunction_response.png) |
+
+### Stability and Noise Analysis
+| Stability Check | Noise Figure |
+|-----------------|---------------|
+| ![Smith Chart](images/stability_check_smith_chart.png) | ![Noise Figure](report/Noise%20Figure.pdf) |
+
+### Fabrication and Measurement
+| Fabricated PCB | Lab Measurement Setup |
+|----------------|------------------------|
+| ![PCB](images/fabricated_pcb.png) | ![Setup](images/lab_measurement_setup.png) |
+
+
 ## 🧩 Folder Structure
 
